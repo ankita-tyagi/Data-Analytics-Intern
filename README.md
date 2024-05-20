@@ -6,6 +6,5 @@ Image:
 ![Dashboard](https://github.com/ankita-tyagi/Data-Analytics-Intern/assets/95837394/d04072ed-d9d0-4c31-9975-b90540dcbb1b)
 
 **Project 2: Foreign Direct Investment Analytics**
-Link:
 
-https://colab.research.google.com/drive/1avEmVjTxsGhKualcMQWGPJKbyxjM_NuV?usp=sharing
+Link: https://colab.research.google.com/drive/1avEmVjTxsGhKualcMQWGPJKbyxjM_NuV?usp=sharing
